@@ -27586,6 +27586,7 @@ table tr td .organisation-name {
     background-attachment: fixed;
     background-position: center;
     z-index: 2000;
+background-size:contain;
 }
 
 .preloader-wrapper .motion-line {
@@ -36705,7 +36706,8 @@ ul.levitate-championship-timline-tabs>li>a:before {
 }
 
 .levitate-team-landing-footer-links ul>li>a>i {
-    display: none
+    display: none;
+    font-size: 26px;
 }
 
 .levitate-team-landing-footer-links ul>li:last-child {
@@ -36743,9 +36745,10 @@ ul.levitate-championship-timline-tabs>li>a:before {
 
 @media (max-width:767px) {
     .levitate-team-landing-footer-links ul>li>a>i {
-        display: block
+        display: block;
+        font-size: 26px;
     }
     .levitate-team-landing-footer-links ul>li>a>span {
-        display: none
+        display: none;
     }
 }
