@@ -27574,7 +27574,18 @@ table tr td .organisation-name {
     width: 100%;
     height: 100%;
     z-index: 1000;
-    background: #000
+    background: #000;
+}
+
+.preloader-wrapper .preloader-logo {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-image: url(../img/logo.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    z-index: 2000;
 }
 
 .preloader-wrapper .motion-line {
