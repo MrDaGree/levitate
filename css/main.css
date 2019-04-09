@@ -5001,6 +5001,10 @@ textarea.input-group-sm>.input-group-btn>.btn {
     }
 }
 
+.tab-content {
+    padding-bottom: 20px;
+}
+
 .tab-content>.tab-pane {
     display: none
 }
@@ -16356,7 +16360,7 @@ body {
 }
 
 a {
-    color: #ffa000;
+    color: #ad10e6;
     text-decoration: none;
     outline: 0;
     transition: all .4s
@@ -17366,7 +17370,7 @@ body.admin-bar .is-sticky .main-menu-wrap {
 }
 
 #show-all-link:hover {
-    color: #ffa000
+    color: #ad10e6
 }
 
 .store-list-item>div {
@@ -17692,7 +17696,7 @@ body.admin-bar .is-sticky .main-menu-wrap {
 }
 
 .footer .foot-news .item .name:hover {
-    color: #ffa000
+    color: #ad10e6
 }
 
 .footer .foot-news .item .date {
@@ -17897,7 +17901,7 @@ body.admin-bar .is-sticky .main-menu-wrap {
 }
 
 .main-match-shedule.amateurs-match-shedule>ul.player-filters li a:before {
-    background: #ffa000
+    background: #ad10e6
 }
 
 .image-header {
@@ -18368,7 +18372,7 @@ ul.team-legend {
 }
 
 .recent-news .item .date a:hover {
-    color: #ffa000
+    color: #ad10e6
 }
 
 .recent-news .item .name {
@@ -18380,7 +18384,7 @@ ul.team-legend {
 }
 
 .recent-news .item .name:hover {
-    color: #ffa000
+    color: #ad10e6
 }
 
 .content {
@@ -18723,7 +18727,7 @@ ul.team-legend {
 }
 
 .news-single .item .top-info .date a:hover {
-    color: #ffa000
+    color: #ad10e6
 }
 
 .news-single .item .top-info .comment-quantity {
@@ -19010,7 +19014,7 @@ blockquote p.name {
 }
 
 .share-box .share-socials li a:hover {
-    color: #ffa000
+    color: #ad10e6
 }
 
 .comments-wrap {
@@ -19059,7 +19063,7 @@ blockquote p.name {
 }
 
 .comment-item .info .date a:hover {
-    color: #ffa000
+    color: #ad10e6
 }
 
 .comment-item .info .date .quote {
@@ -19970,7 +19974,7 @@ td a {
 
 .product-right-info .details ul li {
     padding-bottom: 3px;
-    color: #ffa000
+    color: #ad10e6
 }
 
 .product-right-info .details ul li span {
@@ -19979,7 +19983,7 @@ td a {
 
 .product-right-info .details ul li a {
     font-size: 16px;
-    color: #ffa000
+    color: #ad10e6
 }
 
 .product-right-info .socials {
@@ -20661,7 +20665,7 @@ label:hover:before {
 }
 
 .search-item .info .name:hover {
-    color: #ffa000
+    color: #ad10e6
 }
 
 .search-item .info .wrap {
@@ -20700,7 +20704,7 @@ label:hover:before {
     display: inline-block;
     font-size: 12px;
     text-transform: uppercase;
-    color: #ffa000;
+    color: #ad10e6;
     font-family: Montserrat, sans-serif
 }
 
@@ -20880,7 +20884,7 @@ overflow-scroll.table tr td {
         margin: 33px 0 0 0;
         display: block;
         z-index: 1;
-        background: #ffa000
+        background: #ad10e6
     }
     .navbar-toggle .icon-bar {
         background: #141414
@@ -20956,7 +20960,7 @@ overflow-scroll.table tr td {
         border-left: none
     }
     .main-menu>li>ul>li>ul li:hover>a {
-        color: #ffa000
+        color: #ad10e6
     }
     .main-menu>li>ul>li:hover>a {
         color: #ad10e6
@@ -21400,7 +21404,7 @@ overflow-scroll.table tr td {
 }
 
 .socials li a:hover {
-    color: #ffa000
+    color: #ad10e6
 }
 
 .top-contacts .contacts {
@@ -21430,11 +21434,11 @@ overflow-scroll.table tr td {
 }
 
 .top-contacts .contacts li a:hover {
-    color: #ffa000
+    color: #ad10e6
 }
 
 .top-contacts .contacts li a:hover .fa {
-    color: #ffa000
+    color: #ad10e6
 }
 
 .top-search {
@@ -21684,7 +21688,7 @@ overflow-scroll.table tr td {
 
 .main-slider-caption .booking a {
     padding: 15px 24px 15px 24px;
-    background: #ffa000;
+    background: #ad10e6;
     overflow: hidden;
     border-radius: 23px;
     color: #141414;
@@ -22289,7 +22293,7 @@ overflow-scroll.table tr td {
 .main-next-match .booking {
     padding: 0 15px 0 15px;
     display: inline-block;
-    background: #ffa000;
+    background: #ad10e6;
     border-radius: 9px;
     color: #141414;
     font-size: 12px;
@@ -22474,7 +22478,7 @@ overflow-scroll.table tr td {
     left: 0;
     bottom: 0;
     height: 6px;
-    background: #ffa000;
+    background: #ad10e6;
     transition: all .4s
 }
 
@@ -22618,7 +22622,7 @@ overflow-scroll.table tr td {
     top: 0;
     bottom: 0;
     left: 0;
-    background: #ffa000
+    background: #ad10e6
 }
 
 .players_statistic_slider .player-stat-slider .item .progress-line .bar.bar-1 {
@@ -22735,7 +22739,7 @@ overflow-scroll.table tr td {
     left: 0;
     bottom: 0;
     height: 6px;
-    background: #ffa000;
+    background: #ad10e6;
     transition: all .4s
 }
 
@@ -22800,7 +22804,7 @@ overflow-scroll.table tr td {
 
 .best-players-list .item:first-child .achievement {
     color: #141414;
-    background: #ffa000
+    background: #ad10e6
 }
 
 .best-players-list .item:first-child .achievement:before {
@@ -22812,7 +22816,7 @@ overflow-scroll.table tr td {
     bottom: 0;
     transform: skew(-10deg);
     z-index: -1;
-    background: #ffa000
+    background: #ad10e6
 }
 
 .best-players-list .item .achievement:before {
@@ -23133,7 +23137,7 @@ overflow-scroll.table tr td {
     left: 0;
     bottom: 0;
     height: 6px;
-    background: #ffa000;
+    background: #ad10e6;
     transition: all .4s
 }
 
@@ -24221,7 +24225,7 @@ overflow-scroll.table tr td {
 }
 
 .match-lineup .member .card.yellow {
-    background: #ffa000
+    background: #ad10e6
 }
 
 .match-lineup .member .card.red {
@@ -24405,7 +24409,7 @@ overflow-scroll.table tr td {
 }
 
 .share-box .share-socials li a:hover {
-    color: #ffa000
+    color: #ad10e6
 }
 
 @media (max-width:767px) {
@@ -25231,7 +25235,7 @@ overflow-scroll.table tr td {
     text-transform: uppercase;
     color: #fff;
     font-family: Montserrat, sans-serif;
-    background: #ffa000;
+    background: #ad10e6;
     position: relative
 }
 
@@ -25242,7 +25246,7 @@ overflow-scroll.table tr td {
 .staff-box .info .role:before {
     content: '';
     width: 100%;
-    background: #ffa000;
+    background: #ad10e6;
     transform: skew(-10deg);
     position: absolute;
     top: 0;
@@ -25281,7 +25285,7 @@ overflow-scroll.table tr td {
     text-transform: uppercase;
     color: #fff;
     font-family: Montserrat, sans-serif;
-    background: #ffa000
+    background: #ad10e6
 }
 
 .captain-bage:before {
@@ -25292,7 +25296,7 @@ overflow-scroll.table tr td {
     bottom: 0;
     right: -10px;
     transform: skew(-10deg);
-    background: #ffa000;
+    background: #ad10e6;
     z-index: -1
 }
 
@@ -25787,7 +25791,7 @@ table tr td:first-child span {
     left: 0;
     top: 0;
     bottom: 0;
-    background: #ffa000;
+    background: #ad10e6;
     width: 20%
 }
 
@@ -25796,7 +25800,7 @@ table tr td:first-child span {
     left: 0;
     top: 0;
     bottom: 0;
-    background: #ffa000;
+    background: #ad10e6;
     width: 30%
 }
 
@@ -25805,7 +25809,7 @@ table tr td:first-child span {
     left: 0;
     top: 0;
     bottom: 0;
-    background: #ffa000;
+    background: #ad10e6;
     width: 40%
 }
 
@@ -25814,14 +25818,14 @@ table tr td:first-child span {
     left: 0;
     top: 0;
     bottom: 0;
-    background: #ffa000;
+    background: #ad10e6;
     width: 50%
 }
 
 .donation-item .info .progress-line .bar:before {
     content: '';
     width: 4px;
-    background: #ffa000;
+    background: #ad10e6;
     transform: skew(-10deg);
     position: absolute;
     top: 0;
@@ -25884,7 +25888,7 @@ table tr td:first-child span {
 
 .ct-series-a .ct-line,
 .ct-series-a .ct-point {
-    stroke: #ffa000
+    stroke: #ad10e6
 }
 
 .ct-series-b .ct-line,
@@ -25940,7 +25944,7 @@ table tr td:first-child span {
 }
 
 .contacts-wrap .contact-list li a:hover {
-    color: #ffa000
+    color: #ad10e6
 }
 
 .contacts-wrap .contact-list li.phone span {
@@ -26335,13 +26339,13 @@ td a {
     left: 0;
     top: 0;
     bottom: 0;
-    background: #ffa000
+    background: #ad10e6
 }
 
 .main-slider .progress-line .bar:before {
     content: '';
     width: 4px;
-    background: #ffa000;
+    background: #ad10e6;
     transform: skew(-10deg);
     position: absolute;
     top: 0;
@@ -26514,7 +26518,7 @@ player-hockey-wrap .wrapper-circle {
 
 .ct-series-a .ct-line,
 .ct-series-a .ct-point {
-    stroke: #ffa000
+    stroke: #ad10e6
 }
 
 .ct-series-b .ct-line,
@@ -26556,7 +26560,7 @@ player-hockey-wrap .wrapper-circle {
 
 .ct-series-a .ct-line,
 .ct-series-a .ct-point {
-    stroke: #ffa000
+    stroke: #ad10e6
 }
 
 .ct-series-b .ct-line,
@@ -26922,7 +26926,7 @@ table tr td .organisation-name {
 }
 
 .match-lineup .member .card.yellow {
-    background: #ffa000
+    background: #ad10e6
 }
 
 .match-lineup .member .card.red {
@@ -27465,7 +27469,7 @@ table tr td .organisation-name {
 
 .msp_post_slider .msp_post_slide .slider-caption .booking a {
     padding: 15px 24px 15px 24px;
-    background: #ffa000;
+    background: #ad10e6;
     overflow: hidden;
     border-radius: 23px;
     color: #141414;
@@ -27557,7 +27561,7 @@ table tr td .organisation-name {
     left: 0;
     bottom: 0;
     height: 6px;
-    background: #ffa000;
+    background: #ad10e6;
     transition: all .4s
 }
 
@@ -27586,7 +27590,7 @@ table tr td .organisation-name {
     background-attachment: fixed;
     background-position: center;
     z-index: 2000;
-background-size:contain;
+    background-size:contain;
 }
 
 .preloader-wrapper .motion-line {
@@ -29219,7 +29223,7 @@ background-size:contain;
 }
 
 .error-wrap .offline-socials li:hover a {
-    color: #ffa000
+    color: #ad10e6
 }
 
 @media (max-width:600px) {
@@ -29520,7 +29524,7 @@ div.fancy-select div.trigger:after {
 }
 
 #stackedbar>svg>g>g.ct-series.ct-series-b>line {
-    stroke: #ffa000
+    stroke: #ad10e6
 }
 
 #stackedbar>svg>g>g.ct-series.ct-series-c>line {
@@ -29532,7 +29536,7 @@ div.fancy-select div.trigger:after {
 }
 
 #gaugechart>svg>g.ct-series.ct-series-a>path {
-    fill: #ffa000
+    fill: #ad10e6
 }
 
 #gaugechart>svg>g.ct-series.ct-series-b>path {
@@ -29572,9 +29576,9 @@ div.fancy-select div.trigger:after {
     position: absolute;
     left: 0;
     content: '';
-    border: 3px solid #ffa000;
+    border: 3px solid #ad10e6;
     border-radius: 10px;
-    background: #ffa000;
+    background: #ad10e6;
     margin-right: 10px;
     margin-bottom: 10px
 }
@@ -29627,7 +29631,7 @@ div.fancy-select div.trigger:after {
 }
 
 .svgpath>svg>g>g.ct-series.ct-series-a>path {
-    stroke: #ffa000
+    stroke: #ad10e6
 }
 
 .svgpath>svg>g>g.ct-series.ct-series-b>path {
@@ -29647,7 +29651,7 @@ div.fancy-select div.trigger:after {
 }
 
 .svgpath>svg>g>g.ct-series.ct-series-a>path.ct-area {
-    fill: #ffa000
+    fill: #ad10e6
 }
 
 .svgpath>svg>g>g.ct-series.ct-series-b>path.ct-area {
@@ -29659,11 +29663,11 @@ div.fancy-select div.trigger:after {
 }
 
 #pickcircle>svg>g>g>line {
-    stroke: #ffa000
+    stroke: #ad10e6
 }
 
 #pickcircle>svg>g>g>circle {
-    fill: #ffa000
+    fill: #ad10e6
 }
 
 #pickcircle>svg>g.ct-grids>line {
@@ -29766,11 +29770,11 @@ div.fancy-select div.trigger:after {
 }
 
 #diagram>svg>g>g.ct-series.ct-series-a>path {
-    stroke: #ffa000
+    stroke: #ad10e6
 }
 
 #diagram>svg>g>g.ct-series.ct-series-a>.ct-point {
-    stroke: #ffa000
+    stroke: #ad10e6
 }
 
 #diagram>svg>g>g.ct-series.ct-series-b>path {
@@ -29798,11 +29802,11 @@ div.fancy-select div.trigger:after {
 }
 
 .advancesmill>svg>g>g.ct-series.ct-series-a>path {
-    stroke: #ffa000
+    stroke: #ad10e6
 }
 
 .advancesmill>svg>g>g.ct-series.ct-series-a>.ct-point {
-    stroke: #ffa000
+    stroke: #ad10e6
 }
 
 .advancesmill>svg>g>g.ct-series.ct-series-b>path {
@@ -29852,9 +29856,9 @@ div.fancy-select div.trigger:after {
     position: absolute;
     left: 0;
     content: '';
-    border: 3px solid #ffa000;
+    border: 3px solid #ad10e6;
     border-radius: 10px;
-    background: #ffa000;
+    background: #ad10e6;
     margin-right: 10px
 }
 
@@ -29920,7 +29924,7 @@ div.fancy-select div.trigger:after {
 }
 
 #donutchart>svg>g.ct-series.ct-series-a>path {
-    fill: #ffa000
+    fill: #ad10e6
 }
 
 #donutchart>svg>g.ct-series.ct-series-b>path {
@@ -29947,9 +29951,9 @@ div.fancy-select div.trigger:after {
     position: absolute;
     left: 0;
     content: '';
-    border: 3px solid #ffa000;
+    border: 3px solid #ad10e6;
     border-radius: 10px;
-    background: #ffa000;
+    background: #ad10e6;
     margin-right: 10px;
     margin-bottom: 10px
 }
@@ -30008,7 +30012,7 @@ div.fancy-select div.trigger:after {
 }
 
 #horizontalbar>svg>g>g.ct-series.ct-series-a>line {
-    stroke: #ffa000
+    stroke: #ad10e6
 }
 
 #horizontalbar>svg>g>g.ct-series.ct-series-b>line {
@@ -30034,9 +30038,9 @@ div.fancy-select div.trigger:after {
     position: absolute;
     left: 0;
     content: '';
-    border: 3px solid #ffa000;
+    border: 3px solid #ad10e6;
     border-radius: 10px;
-    background: #ffa000;
+    background: #ad10e6;
     margin-right: 10px
 }
 
@@ -30131,7 +30135,7 @@ div.fancy-select div.trigger:after {
 .ct-bar.ct-threshold-above,
 .ct-line.ct-threshold-above,
 .ct-point.ct-threshold-above {
-    stroke: #ffa000
+    stroke: #ad10e6
 }
 
 .ct-bar.ct-threshold-below,
@@ -30790,12 +30794,12 @@ div.fancy-select div.trigger:after {
 
 .landing-sport-twitter-slider .nav-arrow.left-arrow:hover:before,
 .landing-sport-twitter-slider .nav-arrow.right-arrow:hover:before {
-    background: #ffcf0f
+    background: #ad10e6
 }
 
 .landing-sport-twitter-slider .nav-arrow:hover {
     color: #000;
-    background: #ffcf0f
+    background: #ad10e6
 }
 
 #twitter-slider .owl-carousel .item {
@@ -31591,7 +31595,7 @@ div.fancy-select div.trigger:after {
     left: 0;
     bottom: 0;
     height: 6px;
-    background: #ffa000;
+    background: #ad10e6;
     transition: all .4s
 }
 
@@ -31829,7 +31833,7 @@ div.fancy-select div.trigger:after {
     display: block;
     position: relative;
     overflow: hidden;
-    background-color: #ffcf0f;
+    background-color: #ad10e6;
     margin-bottom: 30px
 }
 
@@ -33052,12 +33056,12 @@ ul.sport-championship-timline-tabs>li>a:before {
 
 .landing-sport-twitter-slider .nav-arrow.right-arrow:hover:before,
 .sport-championship-twitter .nav-arrow.left-arrow:hover:before {
-    background: #ffcf0f
+    background: #ad10e6
 }
 
 .sport-championship-twitter .nav-arrow:hover {
     color: #000;
-    background: #ffcf0f
+    background: #ad10e6
 }
 
 .sport-championship-news img {
@@ -34586,7 +34590,7 @@ ul.levitate-championship-timline-tabs>li>a:before {
 .levitate-championship-players .wrap .info-bord .progress-line {
     width: 100%;
     position: relative;
-    background: #ffcf0f;
+    background: #ad10e6;
     height: 4px;
     display: inline-block
 }
@@ -35533,7 +35537,7 @@ ul.levitate-championship-timline-tabs>li>a:before {
 .levitate-team-landing-main-slider .msp_post_slider .msp_post_slide .slider-caption .big-title {
     color: #fff;
     font-size: 42px;
-    margin-bottom: 40px
+    margin-bottom: 10px
 }
 
 .levitate-team-landing-main-slider .msp_post_slider .msp_post_slide .slider-caption .sub-title {
@@ -35625,7 +35629,7 @@ ul.levitate-championship-timline-tabs>li>a:before {
     background-repeat: no-repeat;
     transition: all .4s;
     position: relative;
-    background-color: #ffc30f
+    background-color: #ad10e6
 }
 
 .levitate-team-landing-latest-matches>a:last-child {
@@ -35811,7 +35815,7 @@ ul.levitate-championship-timline-tabs>li>a:before {
     left: 0;
     bottom: 0;
     height: 6px;
-    background: #ffcf0f;
+    background: #ad10e6;
     transition: all .4s
 }
 
@@ -35841,7 +35845,7 @@ ul.levitate-championship-timline-tabs>li>a:before {
     margin-left: 0;
     float: left;
     overflow: hidden;
-    background-color: #ffc30f;
+    background-color: #430858;
     width: 228px;
     height: 400px;
     transition: all .2s ease-in-out 0s, visibility 0s linear .3s, z-index 0s linear 10ms
@@ -35877,7 +35881,7 @@ ul.levitate-championship-timline-tabs>li>a:before {
 
 .levitate-team-landing-players .wrap .info-bord .name {
     font-size: 16px;
-    color: #000;
+    color: #fff;
     text-transform: uppercase;
     font-family: Montserrat;
     padding-bottom: 25px;
@@ -35887,7 +35891,7 @@ ul.levitate-championship-timline-tabs>li>a:before {
 .levitate-team-landing-players .wrap .info-bord .progress-line {
     width: 100%;
     position: relative;
-    background: #ffcf0f;
+    background: #000;
     height: 4px;
     display: inline-block
 }
@@ -35895,7 +35899,7 @@ ul.levitate-championship-timline-tabs>li>a:before {
 .levitate-team-landing-players .wrap .info-bord .bar {
     width: 78%;
     position: absolute;
-    background: #141414;
+    background: #ad10e6;
     top: 0;
     left: 0;
     bottom: 0
@@ -35917,7 +35921,7 @@ ul.levitate-championship-timline-tabs>li>a:before {
     display: inline-block;
     font-size: 12px;
     text-transform: uppercase;
-    color: #141414;
+    color: #ad10e6;
     line-height: 1
 }
 
@@ -35927,13 +35931,13 @@ ul.levitate-championship-timline-tabs>li>a:before {
     display: inline-block;
     font-size: 12px;
     text-transform: uppercase;
-    color: #141414;
+    color: #ad10e6;
     text-align: right;
     line-height: 1
 }
 
 .levitate-team-landing-players .wrap a:hover {
-    box-shadow: 0 0 50px rgba(255, 195, 15, .8);
+    box-shadow: 0 0 50px rgba(173, 16, 230, 0.78);
     z-index: 20
 }
 
@@ -36000,8 +36004,8 @@ ul.levitate-championship-timline-tabs>li>a:before {
 }
 
 .levitate-team-landing-about .feature>img {
-    -webkit-filter: drop-shadow(0 10px 15px #ffcf0f);
-    filter: drop-shadow(0 10px 15px #ffcf0f)
+    -webkit-filter: drop-shadow(0 10px 15px #000);
+    filter: drop-shadow(0 10px 15px #ad10e6)
 }
 
 .levitate-team-landing-about .feature>span {
@@ -36015,14 +36019,14 @@ ul.levitate-championship-timline-tabs>li>a:before {
 
 .levitate-team-landing-about .big-title {
     font-size: 48px;
-    color: #ffcf0f
+    color: #ad10e6
 }
 
 .levitate-team-landing-about a {
     position: relative;
     padding: 21px 23px 18px 23px;
     display: inline-block;
-    background: #ffcf0f;
+    background: #ad10e6;
     border-radius: 10px;
     text-transform: uppercase;
     color: #141414;
@@ -36235,12 +36239,12 @@ ul.levitate-championship-timline-tabs>li>a:before {
 
 .levitate-team-landing-twitter-slider .nav-arrow.left-arrow:hover:before,
 .levitate-team-landing-twitter-slider .nav-arrow.right-arrow:hover:before {
-    background: #ffcf0f
+    background: #ad10e6
 }
 
 .levitate-team-landing-twitter-slider .nav-arrow:hover {
     color: #000;
-    background: #ffcf0f
+    background: #ad10e6
 }
 
 @media (max-width:767px) {
@@ -36378,7 +36382,7 @@ ul.levitate-championship-timline-tabs>li>a:before {
     display: block;
     position: relative;
     overflow: hidden;
-    background-color: #ffcf0f;
+    background-color: #ad10e6;
     margin-bottom: 30px
 }
 
@@ -36426,7 +36430,7 @@ ul.levitate-championship-timline-tabs>li>a:before {
 
 .levitate-team-landing-store .levitate-store-list-item>div:hover .name,
 .levitate-team-landing-store .levitate-store-list-item>div:hover .price {
-    color: #ffcf0f
+    color: #ad10e6
 }
 
 .levitate-team-landing-store .levitate-store-list-item>div:hover {
@@ -36517,7 +36521,7 @@ ul.levitate-championship-timline-tabs>li>a:before {
 }
 
 .levitate-team-landing-contact .information-wrap-left .header-red {
-    color: #ffcf0f;
+    color: #ad10e6;
     font-weight: 900;
     font-family: Raleway;
     font-size: 48px;
@@ -36529,7 +36533,7 @@ ul.levitate-championship-timline-tabs>li>a:before {
     position: relative;
     padding: 21px 23px 18px 23px;
     display: inline-block;
-    background: #ffcf0f;
+    background: #ad10e6;
     border-radius: 10px;
     text-transform: uppercase;
     color: #141414;
@@ -36583,12 +36587,12 @@ ul.levitate-championship-timline-tabs>li>a:before {
 
 .levitate-team-landing-footer .welcome {
     text-transform: uppercase;
-    color: #6e6e6e;
+    color: #646464;
     font-family: Montserrat;
     font-size: 12px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     display: block;
-    line-height: 1
+    line-height: 1.5
 }
 
 .levitate-team-landing-footer .news-slider {
@@ -36686,7 +36690,13 @@ ul.levitate-championship-timline-tabs>li>a:before {
 
 .levitate-team-landing-footer-links {
     background: #141414;
-    border-bottom: 1px solid #000
+    border-bottom: 1px solid #000;
+}
+
+.levitate-team-landing-footer-links p {
+    text-align: center;
+    color: #646464;
+    margin-bottom: 0px;
 }
 
 .levitate-team-landing-footer-links ul {

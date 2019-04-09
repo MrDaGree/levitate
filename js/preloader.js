@@ -88,7 +88,7 @@
             setTimeout(function(){
                 self.$el.fadeOut();
                 $(window).trigger('preloader.end');
-            }, 1500);
+            }, 500);
         }
         
     };
