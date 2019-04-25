@@ -35,9 +35,10 @@
             margin:0,
             stagePadding: 0,
             autoplay: true,
-            autoplayTimeout: 5000,
+            autoplayTimeout: 2500,
             smartSpeed: 1500,
-            fluidSpeed: 1
+            fluidSpeed: 1,
+            responsiveClass: true
         });
         
         $(window).on('load', function(){
@@ -50,10 +51,24 @@
 
         // Animations and navigation
         $(this).find(".right-arrow").first().on('click', function(){
+            var carousel = $('.owl-carousel').data('owl.carousel');
+            if (carousel.settings.autoplay) {
+                carousel.settings.autoplay = false; //don't know if both are necessary
+                carousel.options.autoplay = false;
+                $('.owl-carousel').trigger('refresh.owl.carousel');
+            }
+            
             $owl_item.trigger('next.owl.carousel');
         });
 
         $(this).find(".left-arrow").first().on('click', function(){
+            var carousel = $('.owl-carousel').data('owl.carousel');
+            if (carousel.settings.autoplay) {
+                carousel.settings.autoplay = false; //don't know if both are necessary
+                carousel.options.autoplay = false;
+                $('.owl-carousel').trigger('refresh.owl.carousel');
+            }
+            
             $owl_item.trigger('prev.owl.carousel');
         });
 
@@ -61,7 +76,7 @@
             $(self).find('.progress-line .bar').stop();
             $(self).find('.progress-line .bar').css({'width': '0px'});
             $(self).find('.progress-line .bar').animate({'width': '100%'}, {
-                duration: 5000,
+                duration: 2500,
                 queue: false
             });
         };
